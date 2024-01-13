@@ -45,6 +45,12 @@
     padding: 1rem 0;
 }
 
+.card .btn{
+    display: block;
+    width: 80%;
+    margin: 2rem auto;
+}
+
 @media screen and (max-width: 740px){
     .card-container{
         max-width: 90%;
